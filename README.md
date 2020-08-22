@@ -1,6 +1,8 @@
-# jogojakempo
+# jogo jakempo
 
-A new Flutter application.
+Todo o aplicativo desenvolvido em Flutter e Dart.
+
+Com o proposito de adquerir conhecimento na linguagem Dart e desenvolvimento de aplitivo Flutter
 
 ## Getting Started
 
